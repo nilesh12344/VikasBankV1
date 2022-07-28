@@ -18,6 +18,7 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 	@Test
 	public void addNewCustomer() throws InterruptedException, IOException
 	{
+		js = (JavascriptExecutor)driver;
 		LoginPage lp = new LoginPage(driver);
 		lp.setusername(username);
 		logger.info("username is provided");
@@ -54,12 +55,10 @@ public class TC_AddCustomerTest_003 extends BaseClass{
 			System.out.println("Customer Id generated Successfully"+ customerID);
 			logger.info("New Customer ID "+ customerID);
 			logger.info("Customer is added successfully");
-			js = (JavascriptExecutor)driver;
 			WebElement table = driver.findElement(By.xpath("//table[@id='regmsg']"));
 			js.executeScript("arguments[0].scrollIntoView(true);",table);
 			//js.executeScript("window.scrollBy(0,400);");
 			captureScreenshot(driver, "addNewCustomerPage"+customerID);
-			logger.info("Screenshot is captured");
 			Assert.assertTrue(true);
 			logger.info("Test case is passed:"+"addNewCustomer");
 		}

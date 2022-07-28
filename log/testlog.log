@@ -887,3 +887,134 @@
 2022-07-28 15:48:19,121 - BaseClass -INFO - Screenshot is taken
 2022-07-28 15:48:19,123 - BaseClass -INFO - Screenshot is captured
 2022-07-28 15:48:19,126 - BaseClass -INFO - Test case is passed:addNewCustomer
+2022-07-28 19:24:50,899 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 19:25:42,693 - BaseClass -INFO - username is provided
+2022-07-28 19:25:42,890 - BaseClass -INFO - password is provided
+2022-07-28 19:25:45,590 - BaseClass -INFO - login successful
+2022-07-28 19:26:03,557 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 20:11:38,739 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 20:11:48,384 - BaseClass -INFO - username is provided
+2022-07-28 20:11:48,567 - BaseClass -INFO - password is provided
+2022-07-28 20:11:51,158 - BaseClass -INFO - login successful
+2022-07-28 20:11:56,108 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 20:11:58,470 - BaseClass -INFO - State name is changed to:XBoCivly
+2022-07-28 20:32:29,568 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 20:33:21,136 - BaseClass -INFO - username is provided
+2022-07-28 20:33:21,291 - BaseClass -INFO - password is provided
+2022-07-28 20:33:24,043 - BaseClass -INFO - login successful
+2022-07-28 20:33:29,158 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 20:33:32,228 - BaseClass -INFO - State name is changed to:fbAxgvRu
+2022-07-28 20:33:33,690 - BaseClass -INFO - new state name is submited
+2022-07-28 20:33:33,712 - BaseClass -INFO - Alert is accepted
+2022-07-28 20:33:33,713 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 20:33:35,536 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 20:33:38,996 - BaseClass -INFO - Cust ID submitted
+2022-07-28 20:33:39,044 - BaseClass -INFO - Updated state is : 
+2022-07-28 20:33:39,045 - BaseClass -INFO - State name is invalid/not properly updated
+2022-07-28 20:33:39,046 - BaseClass -INFO - Test case if failed :EditCustomerTest_001
+2022-07-28 20:42:49,199 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 20:43:40,914 - BaseClass -INFO - username is provided
+2022-07-28 20:43:41,059 - BaseClass -INFO - password is provided
+2022-07-28 20:43:43,903 - BaseClass -INFO - login successful
+2022-07-28 20:43:48,523 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 20:43:52,590 - BaseClass -INFO - State name is changed to:KnxHHlPe
+2022-07-28 20:43:54,168 - BaseClass -INFO - new state name is submited
+2022-07-28 20:43:54,188 - BaseClass -INFO - Alert is accepted
+2022-07-28 20:43:54,190 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 20:43:56,118 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 20:43:59,354 - BaseClass -INFO - Cust ID submitted
+2022-07-28 20:43:59,418 - BaseClass -INFO - Updated state is : KnxHHlPe
+2022-07-28 20:43:59,419 - BaseClass -INFO - State name is validated
+2022-07-28 20:43:59,644 - BaseClass -INFO - Screenshot is taken
+2022-07-28 20:43:59,645 - BaseClass -INFO - Screenshot is captured
+2022-07-28 20:43:59,649 - BaseClass -INFO - Test Case is passed:EditCustomerTest_001 
+2022-07-28 20:49:40,738 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 20:49:49,323 - BaseClass -INFO - username is provided
+2022-07-28 20:49:49,574 - BaseClass -INFO - password is provided
+2022-07-28 20:49:52,210 - BaseClass -INFO - login successful
+2022-07-28 20:49:55,652 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 20:49:58,173 - BaseClass -INFO - State name is changed to:PZqmjPvf
+2022-07-28 20:49:58,746 - BaseClass -INFO - new state name is submited
+2022-07-28 20:49:58,765 - BaseClass -INFO - Alert is accepted
+2022-07-28 20:49:58,766 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 20:50:00,260 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 20:50:02,252 - BaseClass -INFO - Cust ID submitted
+2022-07-28 20:50:02,314 - BaseClass -INFO - Updated state is : PZqmjPvf
+2022-07-28 20:50:02,315 - BaseClass -INFO - State name is validated
+2022-07-28 20:50:02,761 - BaseClass -INFO - Screenshot is taken
+2022-07-28 20:50:02,766 - BaseClass -INFO - Test Case is passed:EditCustomerTest_001 
+2022-07-28 20:52:02,479 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 20:52:11,051 - BaseClass -INFO - username is provided
+2022-07-28 20:52:11,263 - BaseClass -INFO - password is provided
+2022-07-28 20:52:14,191 - BaseClass -INFO - login successful
+2022-07-28 20:52:17,535 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 20:52:20,176 - BaseClass -INFO - State name is changed to:hAEFxnsB
+2022-07-28 20:52:20,750 - BaseClass -INFO - new state name is submited
+2022-07-28 20:52:20,796 - BaseClass -INFO - Alert is accepted
+2022-07-28 20:52:20,797 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 20:52:22,320 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 20:52:24,462 - BaseClass -INFO - Cust ID submitted
+2022-07-28 20:52:24,548 - BaseClass -INFO - Updated state is : hAEFxnsB
+2022-07-28 20:52:24,549 - BaseClass -INFO - State name is validated
+2022-07-28 20:52:24,897 - BaseClass -INFO - Screenshot is taken
+2022-07-28 20:52:24,901 - BaseClass -INFO - Test Case is passed:EditCustomerTest_001 
+2022-07-28 20:58:07,631 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 20:58:59,558 - BaseClass -INFO - username is provided
+2022-07-28 20:58:59,705 - BaseClass -INFO - password is provided
+2022-07-28 20:59:02,547 - BaseClass -INFO - login successful
+2022-07-28 20:59:09,110 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 20:59:12,909 - BaseClass -INFO - State name is changed to:OEPIGZGA
+2022-07-28 20:59:14,783 - BaseClass -INFO - new state name is submited
+2022-07-28 20:59:14,801 - BaseClass -INFO - Alert is accepted
+2022-07-28 20:59:14,802 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 20:59:16,728 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 20:59:19,863 - BaseClass -INFO - Cust ID submitted
+2022-07-28 20:59:19,960 - BaseClass -INFO - Updated state is : OEPIGZGA
+2022-07-28 20:59:19,960 - BaseClass -INFO - State name is validated
+2022-07-28 20:59:20,197 - BaseClass -INFO - Screenshot is taken
+2022-07-28 20:59:20,202 - BaseClass -INFO - Test Case is passed:EditCustomerTest_001 
+2022-07-28 21:02:35,091 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 21:03:26,642 - BaseClass -INFO - username is provided
+2022-07-28 21:03:26,824 - BaseClass -INFO - password is provided
+2022-07-28 21:03:29,951 - BaseClass -INFO - login successful
+2022-07-28 21:03:37,061 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 21:03:40,998 - BaseClass -INFO - State name is changed to:FHYDFmLv
+2022-07-28 21:03:43,052 - BaseClass -INFO - new state name is submited
+2022-07-28 21:03:43,074 - BaseClass -INFO - Alert is accepted
+2022-07-28 21:03:43,074 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 21:03:45,264 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 21:03:48,387 - BaseClass -INFO - Cust ID submitted
+2022-07-28 21:03:48,498 - BaseClass -INFO - Updated state is : FHYDFmLv
+2022-07-28 21:03:48,499 - BaseClass -INFO - State name is validated
+2022-07-28 21:03:48,766 - BaseClass -INFO - Screenshot is taken
+2022-07-28 21:03:48,770 - BaseClass -INFO - Test Case is passed:EditCustomerTest_001 
+2022-07-28 21:07:45,182 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 21:08:37,847 - BaseClass -INFO - username is provided
+2022-07-28 21:08:37,988 - BaseClass -INFO - password is provided
+2022-07-28 21:08:40,536 - BaseClass -INFO - login successful
+2022-07-28 21:08:44,446 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 21:08:47,936 - BaseClass -INFO - State name is changed to:YGvzSDal
+2022-07-28 21:08:48,545 - BaseClass -INFO - new state name is submited
+2022-07-28 21:08:48,566 - BaseClass -INFO - Alert is accepted
+2022-07-28 21:08:48,568 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 21:08:50,119 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 21:08:52,135 - BaseClass -INFO - Cust ID submitted
+2022-07-28 21:08:52,262 - BaseClass -INFO - Updated state is : YGvzSDal
+2022-07-28 21:08:52,263 - BaseClass -INFO - State name is validated
+2022-07-28 21:08:52,477 - BaseClass -INFO - Screenshot is taken
+2022-07-28 21:08:52,481 - BaseClass -INFO - Test Case is passed:EditCustomerTest_001 
+2022-07-28 21:12:36,201 - BaseClass -INFO - Chrome browser opened successfully
+2022-07-28 21:13:27,048 - BaseClass -INFO - username is provided
+2022-07-28 21:13:27,203 - BaseClass -INFO - password is provided
+2022-07-28 21:13:30,001 - BaseClass -INFO - login successful
+2022-07-28 21:13:36,461 - BaseClass -INFO - Customer Id entered successfully to edit
+2022-07-28 21:13:40,779 - BaseClass -INFO - State name is changed to:ATTFZPql
+2022-07-28 21:13:42,402 - BaseClass -INFO - new state name is submited
+2022-07-28 21:13:42,421 - BaseClass -INFO - Alert is accepted
+2022-07-28 21:13:42,421 - BaseClass -INFO - Again checking whether the data is updated accuratly or not
+2022-07-28 21:13:44,542 - BaseClass -INFO - Cust ID entered successfully
+2022-07-28 21:13:47,868 - BaseClass -INFO - Cust ID submitted
+2022-07-28 21:13:47,962 - BaseClass -INFO - Updated state is : ATTFZPql
+2022-07-28 21:13:47,963 - BaseClass -INFO - State name is validated
+2022-07-28 21:13:48,189 - BaseClass -INFO - Screenshot is taken
+2022-07-28 21:13:48,195 - BaseClass -INFO - Test Case is passed:EditCustomerTest_001 

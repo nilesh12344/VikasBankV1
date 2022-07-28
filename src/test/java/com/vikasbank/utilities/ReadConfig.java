@@ -50,5 +50,10 @@ public class ReadConfig {
 		String iepath=pro.getProperty("iepath");
 		return iepath;
 	}
+	public String getCustId()
+	{
+		String custId = pro.getProperty("customerID");
+		return custId;
+	}
 
 }

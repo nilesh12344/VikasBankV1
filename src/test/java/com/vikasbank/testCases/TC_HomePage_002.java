@@ -14,7 +14,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeTest;
 
-public class TC_HomePage_001 extends BaseClass {
+public class TC_HomePage_002 extends BaseClass {
 
 	@Test
 	public void testCurrentURL()

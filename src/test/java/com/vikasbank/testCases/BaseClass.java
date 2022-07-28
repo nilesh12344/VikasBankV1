@@ -23,6 +23,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Parameters;
 
 import com.google.common.io.Files;
+import com.vikasbank.pom.EditCustomerPage;
 import com.vikasbank.pom.HomePage;
 import com.vikasbank.pom.LoginPage;
 import com.vikasbank.utilities.ReadConfig;
@@ -35,10 +36,14 @@ public class BaseClass {
 	public String username = readconfig.getUsername();
 	public String password =readconfig.getPassword();
 	public String chromepath=readconfig.getChromepath();
+	public String customerID=readconfig.getCustId();
+	//Most imp to instantiate webdriver driver object which is available to 
+	//all child classes to pass them to other classes as well
 	public static WebDriver driver = null;
 	public TakesScreenshot screenshot;
 	public LoginPage lp;
 	public HomePage hp;
+	public EditCustomerPage ecp;
 	public static Logger logger;
 	public JavascriptExecutor js;
 	
@@ -54,9 +59,11 @@ public class BaseClass {
 	driver= new ChromeDriver();
 	driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
 	logger.info("Chrome browser opened successfully");
+	
 	}
 	//driver.manage().window().maximize();
 	driver.navigate().to(baseURL);
+	
 	}
 	
 //	@BeforeClass
@@ -94,7 +101,7 @@ public class BaseClass {
 	
 	public static String randomnumber()
 	{
-		String generatednumber= RandomStringUtils.randomNumeric(3);
+		String generatednumber= RandomStringUtils.randomNumeric(5);
 		return generatednumber;
 	}
 }
