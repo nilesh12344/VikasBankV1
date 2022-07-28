@@ -1,1 +1,7 @@
 This is a text file created to check pull command.
+This line is modified in eclipse. Now I will check in this file again to gitHub.
+1.git status
+2. stagging area  using git add -A
+3. git status
+4. Local git hub  - git commit -m "this is my 2nd commit Textfile.txt is modified"
+5. Remote repositor - git push origin master
