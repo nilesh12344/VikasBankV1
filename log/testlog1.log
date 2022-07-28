@@ -1,0 +1,889 @@
+2022-07-08 18:27:33,251 [main] INFO Ebanking - url is opened
+2022-07-08 18:27:33,268 [main] INFO Ebanking - Enter password
+2022-07-08 18:27:33,269 [main] ERROR Ebanking - failed
+2022-07-08 18:27:33,270 [main] WARN Ebanking - this is warning
+2022-07-08 18:33:25,293 [main] INFO ebanking - Browser opened successfully
+2022-07-08 18:33:39,669 [main] INFO ebanking - URL opened successfully
+2022-07-08 18:33:40,548 [main] INFO ebanking - Username entered successfully
+2022-07-08 18:33:41,156 [main] INFO ebanking - Password entered successfully
+2022-07-08 18:33:48,634 [main] INFO ebanking - Login is successfull
+2022-07-08 18:33:48,726 [main] INFO ebanking - Homepage opened successfully
+2022-07-08 18:36:10,646 [main] INFO ebanking - Browser opened successfully
+2022-07-08 18:36:18,832 [main] INFO ebanking - URL opened successfully
+2022-07-08 18:36:19,737 [main] INFO ebanking - Username entered successfully
+2022-07-08 18:36:21,464 [main] INFO ebanking - Password entered successfully
+2022-07-08 18:36:27,991 [main] INFO ebanking - Login is successfull
+2022-07-08 18:36:28,059 [main] INFO ebanking - Homepage opened successfully
+2022-07-08 18:36:30,646 [main] INFO ebanking - Logout successfully
+2022-07-08 18:38:50,190 [main] INFO BaseClass - Browser opened successfully
+2022-07-08 18:39:23,591 [main] INFO BaseClass - URL opened successfully
+2022-07-08 18:39:24,090 [main] INFO BaseClass - Username entered successfully
+2022-07-08 18:39:24,431 [main] INFO BaseClass - Password entered successfully
+2022-07-08 18:39:35,933 [main] INFO BaseClass - Login is successfull
+2022-07-08 18:39:35,979 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 18:44:58,906 [main] INFO BaseClass - Login successfully
+2022-07-08 18:44:59,461 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 18:44:59,720 [main] INFO BaseClass - Logout button tested successfully
+2022-07-08 18:44:59,775 [main] INFO BaseClass - Testing homepage elements
+2022-07-08 18:45:01,419 [main] INFO BaseClass - Logout successfully
+2022-07-08 18:53:35,630 [main] INFO BaseClass - Login successfully
+2022-07-08 18:53:35,771 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 18:53:36,633 [main] INFO BaseClass - Logout button tested successfully
+2022-07-08 18:53:36,669 [main] INFO BaseClass - Testing homepage elements
+2022-07-08 18:53:37,889 [main] INFO BaseClass - Logout successfully
+2022-07-08 19:14:37,425 [main] INFO BaseClass - Browser opened successfully
+2022-07-08 19:14:40,192 [main] INFO BaseClass - URL opened successfully
+2022-07-08 19:19:26,336 [main] INFO BaseClass - Browser opened successfully
+2022-07-08 19:19:37,765 [main] INFO BaseClass - URL opened successfully
+2022-07-08 19:19:38,240 [main] INFO BaseClass - Username entered successfully
+2022-07-08 19:19:38,992 [main] INFO BaseClass - Password entered successfully
+2022-07-08 19:19:44,192 [main] INFO BaseClass - Login is successfull
+2022-07-08 19:19:44,247 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 21:36:59,844 [main] INFO BaseClass - URL opened successfully
+2022-07-08 21:37:00,222 [main] INFO BaseClass - Username entered successfully
+2022-07-08 21:37:00,371 [main] INFO BaseClass - Password entered successfully
+2022-07-08 21:37:04,227 [main] INFO BaseClass - Login is successfull
+2022-07-08 21:37:04,252 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 21:57:59,112 [main] INFO BaseClass - URL opened successfully
+2022-07-08 21:57:59,303 [main] INFO BaseClass - Username entered successfully
+2022-07-08 21:57:59,447 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:00:05,620 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:00:05,828 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:00:06,010 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:08:07,767 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:08:08,013 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:08:08,210 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:09:31,272 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:09:31,470 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:09:31,609 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:14:26,476 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:14:26,638 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:14:26,785 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:17:23,265 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:17:23,488 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:17:23,645 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:18:10,042 [main] INFO BaseClass - Login is successfull
+2022-07-08 22:18:10,078 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 22:23:33,469 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:23:33,669 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:23:33,812 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:26:57,261 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:26:57,461 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:26:57,622 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:30:15,677 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:30:16,072 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:30:16,223 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:30:58,607 [main] INFO BaseClass - Login is successfull
+2022-07-08 22:30:58,627 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 22:33:02,813 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:33:03,032 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:33:03,219 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:35:31,666 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:35:31,850 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:35:31,980 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:39:08,212 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:39:08,446 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:39:08,638 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:40:53,274 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:40:53,499 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:40:53,688 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:40:56,898 [main] INFO BaseClass - Login is successfull
+2022-07-08 22:40:56,922 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 22:42:45,799 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:42:46,032 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:42:46,231 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:46:53,470 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:54:26,384 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:54:26,591 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:54:26,730 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:56:58,610 [main] INFO BaseClass - URL opened successfully
+2022-07-08 22:56:58,832 [main] INFO BaseClass - Username entered successfully
+2022-07-08 22:56:58,978 [main] INFO BaseClass - Password entered successfully
+2022-07-08 22:57:43,773 [main] INFO BaseClass - Login is successfull
+2022-07-08 22:57:43,813 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 23:26:22,824 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:26:23,018 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:26:23,181 [main] INFO BaseClass - Password entered successfully
+2022-07-08 23:27:07,815 [main] INFO BaseClass - Login is successfull
+2022-07-08 23:27:07,850 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 23:30:17,145 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:30:17,336 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:30:17,480 [main] INFO BaseClass - Password entered successfully
+2022-07-08 23:31:30,667 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:32:58,507 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:32:58,841 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:32:59,045 [main] INFO BaseClass - Password entered successfully
+2022-07-08 23:34:07,087 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:34:07,457 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:34:07,683 [main] INFO BaseClass - Password entered successfully
+2022-07-08 23:34:49,696 [main] INFO BaseClass - Login is successfull
+2022-07-08 23:34:49,731 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 23:47:47,982 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:47:48,259 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:47:48,427 [main] INFO BaseClass - Password entered successfully
+2022-07-08 23:49:06,675 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:49:06,866 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:49:07,026 [main] INFO BaseClass - Password entered successfully
+2022-07-08 23:49:51,720 [main] INFO BaseClass - Login is successfull
+2022-07-08 23:49:51,950 [main] INFO BaseClass - Homepage opened successfully
+2022-07-08 23:50:56,496 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:50:56,801 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:50:56,956 [main] INFO BaseClass - Password entered successfully
+2022-07-08 23:52:25,928 [main] INFO BaseClass - URL opened successfully
+2022-07-08 23:52:26,138 [main] INFO BaseClass - Username entered successfully
+2022-07-08 23:52:26,307 [main] INFO BaseClass - Password entered successfully
+2022-07-09 09:35:53,959 [main] INFO BaseClass - URL opened successfully
+2022-07-09 09:35:54,155 [main] INFO BaseClass - Username entered successfully
+2022-07-09 09:35:54,294 [main] INFO BaseClass - Password entered successfully
+2022-07-09 09:37:01,717 [main] INFO BaseClass - URL opened successfully
+2022-07-09 09:37:01,978 [main] INFO BaseClass - Username entered successfully
+2022-07-09 09:37:02,181 [main] INFO BaseClass - Password entered successfully
+2022-07-09 09:41:47,132 [main] INFO BaseClass - URL opened successfully
+2022-07-09 09:41:47,518 [main] INFO BaseClass - Username entered successfully
+2022-07-09 09:41:47,855 [main] INFO BaseClass - Password entered successfully
+2022-07-09 09:47:49,742 [main] INFO BaseClass - URL opened successfully
+2022-07-09 09:47:50,023 [main] INFO BaseClass - Username entered successfully
+2022-07-09 09:47:50,183 [main] INFO BaseClass - Password entered successfully
+2022-07-09 09:55:00,334 [main] INFO BaseClass - URL opened successfully
+2022-07-09 09:55:00,581 [main] INFO BaseClass - Username entered successfully
+2022-07-09 09:55:00,758 [main] INFO BaseClass - Password entered successfully
+2022-07-09 09:58:11,745 [main] INFO BaseClass - URL opened successfully
+2022-07-09 09:58:11,991 [main] INFO BaseClass - Username entered successfully
+2022-07-09 09:58:12,175 [main] INFO BaseClass - Password entered successfully
+2022-07-09 09:59:59,250 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:00:49,704 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:00:49,950 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:00:50,166 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:06:10,259 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:06:59,117 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:06:59,332 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:06:59,488 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:09:04,317 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:09:11,454 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:09:12,157 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:09:12,919 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:09:54,330 [main] INFO BaseClass - Login is successfull
+2022-07-09 10:09:54,375 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 10:11:33,775 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:11:40,619 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:11:41,511 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:11:42,209 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:11:44,625 [main] INFO BaseClass - Login is successfull
+2022-07-09 10:11:44,685 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 10:12:54,132 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:13:47,314 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:13:47,585 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:13:47,811 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:23:15,256 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:24:05,018 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:24:05,791 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:24:06,490 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:24:59,752 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:25:49,817 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:25:49,972 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:25:50,115 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:26:53,687 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:27:46,481 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:27:46,686 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:27:46,855 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:41:07,777 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:41:57,843 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:41:58,011 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:41:58,164 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:45:04,938 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:45:54,522 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:45:54,839 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:45:55,079 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:47:46,813 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:48:46,896 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:49:18,696 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:49:18,906 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:49:19,045 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:49:42,523 [main] INFO BaseClass - Login Successfully
+2022-07-09 10:49:42,524 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 10:50:39,262 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:51:10,053 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:51:10,264 [main] INFO BaseClass - Username entered successfully
+2022-07-09 10:51:10,405 [main] INFO BaseClass - Password entered successfully
+2022-07-09 10:51:33,772 [main] INFO BaseClass - Login Successfully
+2022-07-09 10:51:33,773 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 10:53:17,654 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:54:20,590 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:54:49,717 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:58:38,469 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 10:59:10,634 [main] INFO BaseClass - URL opened successfully
+2022-07-09 10:59:49,779 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:00:18,935 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:00:43,178 [main] INFO BaseClass - Login successfully
+2022-07-09 11:00:43,191 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:00:43,313 [main] INFO BaseClass - Logout button tested successfully
+2022-07-09 11:02:16,143 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:02:45,920 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:04:54,577 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:05:23,346 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:05:46,851 [main] INFO BaseClass - Login successfully
+2022-07-09 11:05:46,865 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:05:46,946 [main] INFO BaseClass - Logout button tested successfully
+2022-07-09 11:05:46,968 [main] INFO BaseClass - Testing homepage elements
+2022-07-09 11:06:58,621 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:07:32,998 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:07:33,258 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:07:33,462 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:07:55,939 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:08:40,531 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:08:40,745 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:08:40,874 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:09:05,545 [main] INFO BaseClass - Login Successfully
+2022-07-09 11:09:05,546 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:10:30,897 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:11:08,415 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:11:08,627 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:11:08,768 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:11:32,324 [main] INFO BaseClass - Login Successfully
+2022-07-09 11:11:32,325 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:13:56,750 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:14:29,128 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:14:29,341 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:14:29,493 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:14:33,570 [main] INFO BaseClass - Login Successfully
+2022-07-09 11:14:33,571 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:15:59,644 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:16:31,174 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:16:31,384 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:16:31,532 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:18:56,397 [TestNG-tests-1] INFO BaseClass - Browser opened successfully
+2022-07-09 11:19:54,867 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:20:35,945 [TestNG-test=Test1-1] INFO BaseClass - URL opened successfully
+2022-07-09 11:20:59,210 [TestNG-test=Test1-2] INFO BaseClass - URL opened successfully
+2022-07-09 11:20:59,361 [TestNG-test=Test1-1] INFO BaseClass - Username entered successfully
+2022-07-09 11:20:59,563 [TestNG-test=Test1-1] INFO BaseClass - Password entered successfully
+2022-07-09 11:21:24,195 [TestNG-test=Test1-1] INFO BaseClass - Screenshot is taken
+2022-07-09 11:21:24,199 [TestNG-test=Test1-1] INFO BaseClass - Login Failed
+2022-07-09 11:21:24,200 [TestNG-test=Test1-1] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:24:49,613 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:24:57,271 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:24:57,758 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:24:58,048 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:25:49,446 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:26:19,741 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:26:19,952 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:26:20,111 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:26:43,486 [main] INFO BaseClass - Login Successfully
+2022-07-09 11:26:43,487 [main] INFO BaseClass - 1st test case passed
+2022-07-09 11:26:43,487 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:26:59,780 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:27:07,559 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:27:30,126 [main] INFO BaseClass - Login successfully
+2022-07-09 11:27:30,138 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:27:30,138 [main] INFO BaseClass - 2nd test case is passed
+2022-07-09 11:27:30,218 [main] INFO BaseClass - Logout button tested successfully
+2022-07-09 11:27:30,219 [main] INFO BaseClass - 4th test case is passed
+2022-07-09 11:27:30,233 [main] INFO BaseClass - Testing homepage elements
+2022-07-09 11:27:30,234 [main] INFO BaseClass - 3rd test case is passed
+2022-07-09 11:28:31,661 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:28:39,939 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:28:40,177 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:28:40,380 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:29:04,159 [main] INFO BaseClass - Login Successfully
+2022-07-09 11:29:04,160 [main] INFO BaseClass - 1st test case passed
+2022-07-09 11:29:04,161 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:34:21,714 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:34:57,134 [TestNG-test=Test1-1] INFO BaseClass - URL opened successfully
+2022-07-09 11:34:57,397 [TestNG-test=Test1-1] INFO BaseClass - Username entered successfully
+2022-07-09 11:34:57,548 [TestNG-test=Test1-1] INFO BaseClass - Password entered successfully
+2022-07-09 11:35:23,099 [TestNG-test=Test1-1] INFO BaseClass - Login Successfully
+2022-07-09 11:35:23,099 [TestNG-test=Test1-1] INFO BaseClass - 1st test case passed
+2022-07-09 11:35:23,100 [TestNG-test=Test1-1] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:51:18,982 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:51:52,233 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:51:52,452 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:51:52,590 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:53:06,493 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:53:37,923 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:53:38,139 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:53:38,280 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:54:56,962 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:55:27,460 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:55:27,747 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:55:27,966 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:56:45,232 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:57:20,178 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:57:20,403 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:57:20,549 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:58:36,162 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 11:59:08,869 [main] INFO BaseClass - URL opened successfully
+2022-07-09 11:59:09,159 [main] INFO BaseClass - Username entered successfully
+2022-07-09 11:59:09,355 [main] INFO BaseClass - Password entered successfully
+2022-07-09 11:59:17,292 [main] INFO BaseClass - Login Successfully
+2022-07-09 11:59:17,293 [main] INFO BaseClass - 1st test case passed
+2022-07-09 11:59:17,293 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 11:59:34,053 [main] INFO BaseClass - Browser opened successfully
+2022-07-09 12:00:08,835 [main] INFO BaseClass - URL opened successfully
+2022-07-09 12:00:33,138 [main] INFO BaseClass - Login successfully
+2022-07-09 12:00:33,152 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 12:00:33,152 [main] INFO BaseClass - 2nd test case is passed
+2022-07-09 12:00:33,252 [main] INFO BaseClass - Logout button tested successfully
+2022-07-09 12:00:33,252 [main] INFO BaseClass - 4th test case is passed
+2022-07-09 12:00:33,274 [main] INFO BaseClass - Testing homepage elements
+2022-07-09 12:00:33,275 [main] INFO BaseClass - 3rd test case is passed
+2022-07-09 12:06:45,595 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 12:07:23,435 [main] INFO BaseClass - URL opened successfully
+2022-07-09 12:07:23,664 [main] INFO BaseClass - Username entered successfully
+2022-07-09 12:07:23,814 [main] INFO BaseClass - Password entered successfully
+2022-07-09 12:08:22,159 [main] INFO BaseClass - Screenshot is taken
+2022-07-09 12:08:22,162 [main] INFO BaseClass - Login Failed
+2022-07-09 12:08:22,163 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 12:09:44,939 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 12:10:12,078 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 12:11:01,608 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 12:11:32,549 [main] INFO BaseClass - URL opened successfully
+2022-07-09 12:11:32,769 [main] INFO BaseClass - Username entered successfully
+2022-07-09 12:11:32,957 [main] INFO BaseClass - Password entered successfully
+2022-07-09 12:11:53,646 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 12:12:24,337 [main] INFO BaseClass - URL opened successfully
+2022-07-09 12:12:25,844 [main] INFO BaseClass - Username entered successfully
+2022-07-09 12:12:26,163 [main] INFO BaseClass - Password entered successfully
+2022-07-09 12:13:54,258 [main] INFO BaseClass - Login Successfully
+2022-07-09 12:13:54,259 [main] INFO BaseClass - 1st test case passed
+2022-07-09 12:13:54,260 [main] INFO BaseClass - Homepage opened successfully
+2022-07-09 16:59:44,283 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:01:10,828 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:02:03,197 [main] INFO BaseClass - user name provided
+2022-07-09 17:02:03,338 [main] INFO BaseClass - password provided
+2022-07-09 17:02:51,657 [main] INFO BaseClass - Login passed
+2022-07-09 17:12:19,398 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:13:10,683 [main] INFO BaseClass - user name provided
+2022-07-09 17:13:10,858 [main] INFO BaseClass - password provided
+2022-07-09 17:13:58,717 [main] INFO BaseClass - Login passed
+2022-07-09 17:19:41,855 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:20:33,939 [main] INFO BaseClass - user name provided
+2022-07-09 17:20:34,089 [main] INFO BaseClass - password provided
+2022-07-09 17:29:25,259 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:30:17,129 [main] INFO BaseClass - user name provided
+2022-07-09 17:30:17,302 [main] INFO BaseClass - password provided
+2022-07-09 17:31:06,588 [main] INFO BaseClass - Login passed
+2022-07-09 17:35:02,768 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:35:55,737 [main] INFO BaseClass - user name provided
+2022-07-09 17:35:55,876 [main] INFO BaseClass - password provided
+2022-07-09 17:36:44,263 [main] INFO BaseClass - Login passed
+2022-07-09 17:42:03,389 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:47:13,872 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:52:21,608 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:54:09,252 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-09 17:55:03,478 [main] INFO BaseClass - user name provided
+2022-07-09 17:55:03,688 [main] INFO BaseClass - password provided
+2022-07-09 17:55:52,329 [main] INFO BaseClass - Login passed
+2022-07-09 17:56:41,511 [main] INFO BaseClass - user name provided
+2022-07-09 17:56:41,627 [main] INFO BaseClass - password provided
+2022-07-09 17:57:31,019 [main] INFO BaseClass - user name provided
+2022-07-09 17:57:31,128 [main] INFO BaseClass - password provided
+2022-07-09 17:58:19,349 [main] INFO BaseClass - user name provided
+2022-07-09 17:58:19,456 [main] INFO BaseClass - password provided
+2022-07-09 17:59:06,020 [main] INFO BaseClass - Login passed
+2022-07-09 17:59:55,260 [main] INFO BaseClass - user name provided
+2022-07-09 17:59:55,367 [main] INFO BaseClass - password provided
+2022-07-09 18:00:43,572 [main] INFO BaseClass - Login passed
+2022-07-19 17:28:08,939 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:29:00,248 [main] INFO BaseClass - username is provided
+2022-07-19 17:29:00,409 [main] INFO BaseClass - password is provided
+2022-07-19 17:29:04,076 [main] INFO BaseClass - login successful
+2022-07-19 17:29:10,856 [main] INFO BaseClass - Adding new customer data!
+2022-07-19 17:30:07,492 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:30:58,236 [main] INFO BaseClass - username is provided
+2022-07-19 17:30:58,372 [main] INFO BaseClass - password is provided
+2022-07-19 17:31:45,820 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:32:37,317 [main] INFO BaseClass - username is provided
+2022-07-19 17:32:37,498 [main] INFO BaseClass - password is provided
+2022-07-19 17:33:47,775 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:34:38,467 [main] INFO BaseClass - username is provided
+2022-07-19 17:34:38,607 [main] INFO BaseClass - password is provided
+2022-07-19 17:36:33,228 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:37:23,576 [main] INFO BaseClass - username is provided
+2022-07-19 17:37:23,711 [main] INFO BaseClass - password is provided
+2022-07-19 17:37:26,715 [main] INFO BaseClass - login successful
+2022-07-19 17:37:38,176 [main] INFO BaseClass - Adding new customer data!
+2022-07-19 17:38:56,399 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:39:47,071 [main] INFO BaseClass - username is provided
+2022-07-19 17:39:47,274 [main] INFO BaseClass - password is provided
+2022-07-19 17:41:59,640 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:42:49,532 [main] INFO BaseClass - username is provided
+2022-07-19 17:42:49,670 [main] INFO BaseClass - password is provided
+2022-07-19 17:44:37,737 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:45:28,896 [main] INFO BaseClass - username is provided
+2022-07-19 17:45:29,034 [main] INFO BaseClass - password is provided
+2022-07-19 17:45:48,258 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:46:38,270 [main] INFO BaseClass - username is provided
+2022-07-19 17:46:38,418 [main] INFO BaseClass - password is provided
+2022-07-19 17:47:06,158 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:47:56,058 [main] INFO BaseClass - username is provided
+2022-07-19 17:47:56,188 [main] INFO BaseClass - password is provided
+2022-07-19 17:51:07,676 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 17:51:59,280 [main] INFO BaseClass - username is provided
+2022-07-19 17:51:59,486 [main] INFO BaseClass - password is provided
+2022-07-19 20:26:21,337 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 20:26:56,867 [main] INFO BaseClass - username is provided
+2022-07-19 20:26:57,008 [main] INFO BaseClass - password is provided
+2022-07-19 20:27:01,575 [main] INFO BaseClass - login successful
+2022-07-19 20:28:16,515 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 20:28:47,010 [main] INFO BaseClass - username is provided
+2022-07-19 20:28:47,138 [main] INFO BaseClass - password is provided
+2022-07-19 20:32:32,579 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 20:33:16,306 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 20:33:26,183 [main] INFO BaseClass - username is provided
+2022-07-19 20:33:26,320 [main] INFO BaseClass - password is provided
+2022-07-19 20:34:05,399 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 20:34:36,288 [main] INFO BaseClass - username is provided
+2022-07-19 20:34:36,430 [main] INFO BaseClass - password is provided
+2022-07-19 20:52:06,982 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 20:52:15,013 [main] INFO BaseClass - username is provided
+2022-07-19 20:52:15,288 [main] INFO BaseClass - password is provided
+2022-07-19 20:53:26,426 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 20:53:58,747 [main] INFO BaseClass - username is provided
+2022-07-19 20:53:58,896 [main] INFO BaseClass - password is provided
+2022-07-19 20:59:40,106 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 21:00:13,719 [main] INFO BaseClass - username is provided
+2022-07-19 21:00:13,889 [main] INFO BaseClass - password is provided
+2022-07-19 21:03:00,561 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 21:03:33,748 [main] INFO BaseClass - username is provided
+2022-07-19 21:03:33,957 [main] INFO BaseClass - password is provided
+2022-07-19 21:03:36,882 [main] INFO BaseClass - login successful
+2022-07-19 21:12:18,995 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 21:12:48,147 [main] INFO BaseClass - username is provided
+2022-07-19 21:12:48,284 [main] INFO BaseClass - password is provided
+2022-07-19 21:12:52,476 [main] INFO BaseClass - login successful
+2022-07-19 21:14:59,435 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 21:15:28,787 [main] INFO BaseClass - username is provided
+2022-07-19 21:15:28,916 [main] INFO BaseClass - password is provided
+2022-07-19 21:26:27,982 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 21:26:56,974 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 21:27:05,552 [main] INFO BaseClass - username is provided
+2022-07-19 21:27:06,888 [main] INFO BaseClass - password is provided
+2022-07-19 21:27:09,309 [main] INFO BaseClass - login successful
+2022-07-19 21:28:19,503 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-19 21:29:09,733 [main] INFO BaseClass - username is provided
+2022-07-19 21:29:09,950 [main] INFO BaseClass - password is provided
+2022-07-23 18:42:46,933 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 18:42:56,166 [main] INFO BaseClass - username is provided
+2022-07-23 18:42:56,300 [main] INFO BaseClass - password is provided
+2022-07-23 18:45:32,170 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 18:46:22,868 [main] INFO BaseClass - username is provided
+2022-07-23 18:46:23,054 [main] INFO BaseClass - password is provided
+2022-07-23 18:50:23,968 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 18:51:14,662 [main] INFO BaseClass - Username entered successfully
+2022-07-23 18:51:14,813 [main] INFO BaseClass - Password entered successfully
+2022-07-23 18:59:49,882 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:00:52,187 [main] INFO BaseClass - Username entered successfully
+2022-07-23 19:00:52,376 [main] INFO BaseClass - Password entered successfully
+2022-07-23 19:00:55,918 [main] INFO BaseClass - Login Successfully
+2022-07-23 19:00:55,919 [main] INFO BaseClass - 1st test case passed
+2022-07-23 19:00:55,920 [main] INFO BaseClass - Homepage opened successfully
+2022-07-23 19:01:21,938 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:02:14,573 [main] INFO BaseClass - username is provided
+2022-07-23 19:02:14,773 [main] INFO BaseClass - password is provided
+2022-07-23 19:02:17,788 [main] INFO BaseClass - login successful
+2022-07-23 19:02:24,225 [main] INFO BaseClass - Adding new customer data!
+2022-07-23 19:02:28,954 [main] INFO BaseClass - Customer is added successfully
+2022-07-23 19:02:29,564 [main] INFO BaseClass - Screenshot is taken
+2022-07-23 19:02:29,566 [main] INFO BaseClass - Screenshot is captured
+2022-07-23 19:02:29,571 [main] INFO BaseClass - Test case is passedaddNewCustomer
+2022-07-23 19:04:24,947 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:05:15,851 [main] INFO BaseClass - Username entered successfully
+2022-07-23 19:05:16,161 [main] INFO BaseClass - Password entered successfully
+2022-07-23 19:05:21,291 [main] INFO BaseClass - Login Successfully
+2022-07-23 19:05:21,291 [main] INFO BaseClass - 1st test case passed
+2022-07-23 19:05:21,292 [main] INFO BaseClass - Homepage opened successfully
+2022-07-23 19:05:21,783 [main] INFO BaseClass - URL opened successfully
+2022-07-23 19:06:25,223 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:07:16,626 [main] INFO BaseClass - Username entered successfully
+2022-07-23 19:07:16,925 [main] INFO BaseClass - Password entered successfully
+2022-07-23 19:07:20,577 [main] INFO BaseClass - Login Successfully
+2022-07-23 19:07:20,578 [main] INFO BaseClass - 1st test case passed
+2022-07-23 19:07:20,579 [main] INFO BaseClass - Homepage opened successfully
+2022-07-23 19:07:20,941 [main] INFO BaseClass - URL opened successfully
+2022-07-23 19:15:22,698 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:15:36,594 [main] INFO BaseClass - Username entered successfully
+2022-07-23 19:15:36,826 [main] INFO BaseClass - Password entered successfully
+2022-07-23 19:15:45,071 [main] INFO BaseClass - Login Successfully
+2022-07-23 19:15:45,072 [main] INFO BaseClass - 1st test case passed
+2022-07-23 19:15:45,073 [main] INFO BaseClass - Homepage opened successfully
+2022-07-23 19:15:47,910 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:16:24,023 [main] INFO BaseClass - Login successfully
+2022-07-23 19:16:24,035 [main] INFO BaseClass - Homepage opened successfully
+2022-07-23 19:16:24,035 [main] INFO BaseClass - 2nd test case is passed
+2022-07-23 19:16:24,129 [main] INFO BaseClass - Logout button tested successfully
+2022-07-23 19:16:24,129 [main] INFO BaseClass - 4th test case is passed
+2022-07-23 19:16:24,152 [main] INFO BaseClass - Testing homepage elements
+2022-07-23 19:16:24,153 [main] INFO BaseClass - 3rd test case is passed
+2022-07-23 19:16:27,895 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:17:17,904 [main] INFO BaseClass - username is provided
+2022-07-23 19:17:18,208 [main] INFO BaseClass - password is provided
+2022-07-23 19:17:28,777 [main] INFO BaseClass - login successful
+2022-07-23 19:17:38,638 [main] INFO BaseClass - Adding new customer data!
+2022-07-23 19:17:44,877 [main] INFO BaseClass - Customer is added successfully
+2022-07-23 19:17:45,077 [main] INFO BaseClass - Screenshot is taken
+2022-07-23 19:17:45,077 [main] INFO BaseClass - Screenshot is captured
+2022-07-23 19:17:45,078 [main] INFO BaseClass - Test case is passedaddNewCustomer
+2022-07-23 19:20:26,848 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:20:38,386 [main] INFO BaseClass - Username entered successfully
+2022-07-23 19:20:38,604 [main] INFO BaseClass - Password entered successfully
+2022-07-23 19:20:45,169 [main] INFO BaseClass - Login Successfully
+2022-07-23 19:20:45,170 [main] INFO BaseClass - 1st test case passed
+2022-07-23 19:20:45,170 [main] INFO BaseClass - Homepage opened successfully
+2022-07-23 19:20:47,844 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:21:30,805 [main] INFO BaseClass - Login successfully
+2022-07-23 19:21:30,817 [main] INFO BaseClass - Homepage opened successfully
+2022-07-23 19:21:30,818 [main] INFO BaseClass - 2nd test case is passed
+2022-07-23 19:21:30,911 [main] INFO BaseClass - Logout button tested successfully
+2022-07-23 19:21:30,911 [main] INFO BaseClass - 4th test case is passed
+2022-07-23 19:21:30,950 [main] INFO BaseClass - Testing homepage elements
+2022-07-23 19:21:30,950 [main] INFO BaseClass - 3rd test case is passed
+2022-07-23 19:21:33,286 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:21:45,755 [main] INFO BaseClass - user name provided
+2022-07-23 19:21:45,965 [main] INFO BaseClass - password provided
+2022-07-23 19:21:52,993 [main] INFO BaseClass - Login passed
+2022-07-23 19:22:00,235 [main] INFO BaseClass - user name provided
+2022-07-23 19:22:00,425 [main] INFO BaseClass - password provided
+2022-07-23 19:22:10,284 [main] INFO BaseClass - user name provided
+2022-07-23 19:22:10,789 [main] INFO BaseClass - password provided
+2022-07-23 19:22:17,792 [main] INFO BaseClass - user name provided
+2022-07-23 19:22:18,456 [main] INFO BaseClass - password provided
+2022-07-23 19:22:25,873 [main] INFO BaseClass - Login passed
+2022-07-23 19:22:36,195 [main] INFO BaseClass - user name provided
+2022-07-23 19:22:36,567 [main] INFO BaseClass - password provided
+2022-07-23 19:22:44,476 [main] INFO BaseClass - Login passed
+2022-07-23 19:22:54,339 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:23:25,504 [main] INFO BaseClass - username is provided
+2022-07-23 19:23:25,682 [main] INFO BaseClass - password is provided
+2022-07-23 19:23:30,026 [main] INFO BaseClass - login successful
+2022-07-23 19:23:36,032 [main] INFO BaseClass - Adding new customer data!
+2022-07-23 19:23:41,243 [main] INFO BaseClass - Customer is added successfully
+2022-07-23 19:23:41,509 [main] INFO BaseClass - Screenshot is taken
+2022-07-23 19:23:41,510 [main] INFO BaseClass - Screenshot is captured
+2022-07-23 19:23:41,511 [main] INFO BaseClass - Test case is passedaddNewCustomer
+2022-07-23 19:28:12,583 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-23 19:28:48,266 [main] INFO BaseClass - user name provided
+2022-07-23 19:28:48,472 [main] INFO BaseClass - password provided
+2022-07-23 19:29:00,582 [main] INFO BaseClass - Login passed
+2022-07-23 19:29:11,780 [main] INFO BaseClass - user name provided
+2022-07-23 19:29:12,000 [main] INFO BaseClass - password provided
+2022-07-23 19:29:17,568 [main] WARN BaseClass - Login failed
+2022-07-23 19:29:26,299 [main] INFO BaseClass - user name provided
+2022-07-23 19:29:26,637 [main] INFO BaseClass - password provided
+2022-07-23 19:29:30,214 [main] WARN BaseClass - Login failed
+2022-07-23 19:29:40,950 [main] INFO BaseClass - user name provided
+2022-07-23 19:29:41,117 [main] INFO BaseClass - password provided
+2022-07-23 19:29:57,201 [main] INFO BaseClass - Login passed
+2022-07-23 19:30:58,006 [main] INFO BaseClass - user name provided
+2022-07-23 19:30:58,328 [main] INFO BaseClass - password provided
+2022-07-23 19:31:05,328 [main] INFO BaseClass - Login passed
+2022-07-23 22:41:30,204 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:27:10,916 [TestNG-test=Test1-3] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:27:10,917 [TestNG-test=Test1-1] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:27:10,916 [TestNG-test=Test1-4] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:27:10,916 [TestNG-test=Test1-2] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:28:27,568 [TestNG-test=Test1-1] INFO BaseClass - Username entered successfully
+2022-07-25 13:28:27,711 [TestNG-test=Test1-2] INFO BaseClass - username is provided
+2022-07-25 13:28:28,059 [TestNG-test=Test1-1] INFO BaseClass - Password entered successfully
+2022-07-25 13:28:28,178 [TestNG-test=Test1-2] INFO BaseClass - password is provided
+2022-07-25 13:30:10,358 [TestNG-test=Test1-4] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:30:10,774 [TestNG-test=Test1-1] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:30:10,364 [TestNG-test=Test1-3] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:30:10,359 [TestNG-test=Test1-2] INFO BaseClass - Chrome browser opened successfully
+2022-07-25 13:32:14,785 [TestNG-test=Test1-1] INFO BaseClass - Username entered successfully
+2022-07-25 13:32:15,099 [TestNG-test=Test1-3] INFO BaseClass - user name provided
+2022-07-25 13:32:15,143 [TestNG-test=Test1-2] INFO BaseClass - username is provided
+2022-07-25 13:32:15,351 [TestNG-test=Test1-1] INFO BaseClass - Password entered successfully
+2022-07-25 13:32:15,463 [TestNG-test=Test1-3] INFO BaseClass - password provided
+2022-07-25 13:32:15,527 [TestNG-test=Test1-2] INFO BaseClass - password is provided
+2022-07-27 09:41:33,243 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 09:42:31,996 [main] INFO BaseClass - user name provided
+2022-07-27 09:42:32,172 [main] INFO BaseClass - password provided
+2022-07-27 09:42:42,616 [main] INFO BaseClass - Login passed
+2022-07-27 09:42:50,011 [main] INFO BaseClass - user name provided
+2022-07-27 09:42:50,278 [main] INFO BaseClass - password provided
+2022-07-27 09:42:54,790 [main] WARN BaseClass - Login failed
+2022-07-27 09:42:59,084 [main] INFO BaseClass - user name provided
+2022-07-27 09:42:59,402 [main] INFO BaseClass - password provided
+2022-07-27 09:43:03,625 [main] WARN BaseClass - Login failed
+2022-07-27 09:43:06,239 [main] INFO BaseClass - user name provided
+2022-07-27 09:43:06,519 [main] INFO BaseClass - password provided
+2022-07-27 09:43:14,189 [main] INFO BaseClass - Login passed
+2022-07-27 09:43:21,469 [main] INFO BaseClass - user name provided
+2022-07-27 09:43:21,600 [main] INFO BaseClass - password provided
+2022-07-27 09:43:28,221 [main] INFO BaseClass - Login passed
+2022-07-27 18:41:16,520 [TestNG-test=Test1-3] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 18:41:16,527 [TestNG-test=Test1-4] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 18:41:16,523 [TestNG-test=Test1-1] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 18:41:16,522 [TestNG-test=Test1-2] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 18:42:57,950 [TestNG-test=Test1-3] INFO BaseClass - user name provided
+2022-07-27 18:42:57,996 [TestNG-test=Test1-1] INFO BaseClass - Username entered successfully
+2022-07-27 18:42:58,047 [TestNG-test=Test1-2] INFO BaseClass - username is provided
+2022-07-27 18:42:58,577 [TestNG-test=Test1-3] INFO BaseClass - password provided
+2022-07-27 18:42:58,622 [TestNG-test=Test1-1] INFO BaseClass - Password entered successfully
+2022-07-27 18:42:58,668 [TestNG-test=Test1-2] INFO BaseClass - password is provided
+2022-07-27 18:43:00,399 [TestNG-test=Test1-4] INFO BaseClass - Login successfully
+2022-07-27 18:43:04,111 [TestNG-test=Test1-3] INFO BaseClass - user name provided
+2022-07-27 18:45:33,204 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 18:46:46,641 [main] INFO BaseClass - Username entered successfully
+2022-07-27 18:46:47,112 [main] INFO BaseClass - Password entered successfully
+2022-07-27 18:46:57,225 [main] INFO BaseClass - Login Successfully
+2022-07-27 18:46:57,227 [main] INFO BaseClass - 1st test case passed
+2022-07-27 18:46:57,228 [main] INFO BaseClass - Homepage opened successfully
+2022-07-27 18:47:01,086 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 18:48:04,929 [main] INFO BaseClass - Login successfully
+2022-07-27 18:48:04,956 [main] INFO BaseClass - Homepage opened successfully
+2022-07-27 18:48:04,957 [main] INFO BaseClass - 2nd test case is passed
+2022-07-27 18:48:06,241 [main] INFO BaseClass - Logout button tested successfully
+2022-07-27 18:48:06,243 [main] INFO BaseClass - 4th test case is passed
+2022-07-27 18:48:06,285 [main] INFO BaseClass - Testing homepage elements
+2022-07-27 18:48:06,286 [main] INFO BaseClass - 3rd test case is passed
+2022-07-27 18:48:10,199 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 18:49:07,915 [main] INFO BaseClass - user name provided
+2022-07-27 18:49:08,357 [main] INFO BaseClass - password provided
+2022-07-27 18:49:16,986 [main] INFO BaseClass - Login passed
+2022-07-27 19:45:14,787 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-27 19:46:07,460 [main] INFO BaseClass - username is provided
+2022-07-27 19:46:08,170 [main] INFO BaseClass - password is provided
+2022-07-27 19:46:13,955 [main] INFO BaseClass - login successful
+2022-07-27 19:46:21,034 [main] INFO BaseClass - Adding new customer data!
+2022-07-27 19:46:29,660 [main] INFO BaseClass - New Customer ID91777
+2022-07-27 19:46:29,661 [main] INFO BaseClass - Customer is added successfully
+2022-07-27 19:46:30,182 [main] INFO BaseClass - Screenshot is taken
+2022-07-27 19:46:30,183 [main] INFO BaseClass - Screenshot is captured
+2022-07-27 19:46:30,192 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 10:43:21,886 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 10:44:18,392 [main] INFO BaseClass - username is provided
+2022-07-28 10:44:18,683 [main] INFO BaseClass - password is provided
+2022-07-28 10:44:23,135 [main] INFO BaseClass - login successful
+2022-07-28 10:44:31,534 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 10:44:36,178 [main] INFO BaseClass - New Customer ID 80356
+2022-07-28 10:44:36,179 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 10:44:36,486 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 10:44:36,487 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 10:44:36,505 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 10:57:19,025 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 10:58:11,642 [main] INFO BaseClass - username is provided
+2022-07-28 10:58:11,828 [main] INFO BaseClass - password is provided
+2022-07-28 10:58:14,745 [main] INFO BaseClass - login successful
+2022-07-28 10:58:20,123 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 11:00:11,749 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 11:01:03,572 [main] INFO BaseClass - username is provided
+2022-07-28 11:01:03,741 [main] INFO BaseClass - password is provided
+2022-07-28 11:01:06,992 [main] INFO BaseClass - login successful
+2022-07-28 11:01:11,119 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 11:01:15,600 [main] INFO BaseClass - New Customer ID 52340
+2022-07-28 11:01:15,601 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 11:01:56,526 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 11:02:06,036 [main] INFO BaseClass - username is provided
+2022-07-28 11:02:06,247 [main] INFO BaseClass - password is provided
+2022-07-28 11:02:09,225 [main] INFO BaseClass - login successful
+2022-07-28 11:02:12,851 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 11:02:17,885 [main] INFO BaseClass - New Customer ID 73867
+2022-07-28 11:02:17,887 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 11:05:50,707 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 11:06:42,559 [main] INFO BaseClass - username is provided
+2022-07-28 11:06:42,694 [main] INFO BaseClass - password is provided
+2022-07-28 11:06:45,561 [main] INFO BaseClass - login successful
+2022-07-28 11:06:49,923 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 11:06:54,592 [main] INFO BaseClass - New Customer ID 63785
+2022-07-28 11:06:54,593 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 11:06:54,842 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 11:06:54,843 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 11:06:54,846 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 11:11:07,133 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 11:11:16,383 [main] INFO BaseClass - username is provided
+2022-07-28 11:11:16,570 [main] INFO BaseClass - password is provided
+2022-07-28 11:12:01,996 [main] INFO BaseClass - login successful
+2022-07-28 11:12:07,262 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 11:12:15,138 [main] INFO BaseClass - New Customer ID 84953
+2022-07-28 11:12:15,139 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 11:12:15,375 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 11:12:15,376 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 11:12:15,379 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 13:14:06,131 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:14:14,369 [main] INFO BaseClass - Username entered successfully
+2022-07-28 13:14:14,682 [main] INFO BaseClass - Password entered successfully
+2022-07-28 13:14:17,560 [main] INFO BaseClass - Login Successfully
+2022-07-28 13:14:17,561 [main] INFO BaseClass - 1st test case passed
+2022-07-28 13:14:17,562 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 13:14:19,452 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:15:14,125 [main] INFO BaseClass - Login successfully
+2022-07-28 13:15:14,135 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 13:15:14,137 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 13:15:14,211 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 13:15:14,211 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 13:15:14,224 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 13:15:14,224 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 13:15:16,355 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:15:25,078 [main] INFO BaseClass - username is provided
+2022-07-28 13:15:25,308 [main] INFO BaseClass - password is provided
+2022-07-28 13:15:28,130 [main] INFO BaseClass - login successful
+2022-07-28 13:15:31,780 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 13:15:36,697 [main] INFO BaseClass - New Customer ID 18406
+2022-07-28 13:15:36,698 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 13:15:36,954 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 13:15:36,954 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 13:15:36,955 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 13:40:22,559 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:41:17,281 [main] INFO BaseClass - Username entered successfully
+2022-07-28 13:41:17,455 [main] INFO BaseClass - Password entered successfully
+2022-07-28 13:41:21,897 [main] INFO BaseClass - Login Successfully
+2022-07-28 13:41:21,897 [main] INFO BaseClass - 1st test case passed
+2022-07-28 13:41:21,898 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 13:41:23,928 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:42:36,228 [main] INFO BaseClass - Login successfully
+2022-07-28 13:42:36,241 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 13:42:36,242 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 13:42:36,313 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 13:42:36,313 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 13:42:36,325 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 13:42:36,325 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 13:42:38,294 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:43:44,808 [main] INFO BaseClass - username is provided
+2022-07-28 13:43:44,967 [main] INFO BaseClass - password is provided
+2022-07-28 13:43:51,692 [main] INFO BaseClass - login successful
+2022-07-28 13:44:01,263 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 13:44:07,983 [main] INFO BaseClass - New Customer ID 21466
+2022-07-28 13:44:07,983 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 13:44:08,163 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 13:44:08,163 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 13:44:08,163 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 13:50:03,321 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:50:13,133 [main] INFO BaseClass - Username entered successfully
+2022-07-28 13:50:13,293 [main] INFO BaseClass - Password entered successfully
+2022-07-28 13:50:17,228 [main] INFO BaseClass - Login Successfully
+2022-07-28 13:50:17,233 [main] INFO BaseClass - 1st test case passed
+2022-07-28 13:50:17,236 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 13:50:19,757 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:51:15,801 [main] INFO BaseClass - Login successfully
+2022-07-28 13:51:15,814 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 13:51:15,815 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 13:51:15,916 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 13:51:15,917 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 13:51:15,932 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 13:51:15,933 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 13:51:18,182 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 13:52:09,713 [main] INFO BaseClass - username is provided
+2022-07-28 13:52:09,894 [main] INFO BaseClass - password is provided
+2022-07-28 13:52:13,076 [main] INFO BaseClass - login successful
+2022-07-28 13:52:19,041 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 13:52:24,075 [main] INFO BaseClass - New Customer ID 94229
+2022-07-28 13:52:24,076 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 13:52:24,376 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 13:52:24,377 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 13:52:24,377 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 14:01:11,079 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:01:18,448 [main] INFO BaseClass - Username entered successfully
+2022-07-28 14:01:19,649 [main] INFO BaseClass - Password entered successfully
+2022-07-28 14:01:22,399 [main] INFO BaseClass - Login Successfully
+2022-07-28 14:01:22,401 [main] INFO BaseClass - 1st test case passed
+2022-07-28 14:01:22,402 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:01:24,873 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:02:19,853 [main] INFO BaseClass - Login successfully
+2022-07-28 14:02:19,862 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:02:19,862 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 14:02:19,950 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 14:02:19,951 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 14:02:19,962 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 14:02:19,963 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 14:02:21,784 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:02:31,045 [main] INFO BaseClass - username is provided
+2022-07-28 14:02:31,655 [main] INFO BaseClass - password is provided
+2022-07-28 14:02:34,686 [main] INFO BaseClass - login successful
+2022-07-28 14:02:37,868 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 14:06:54,932 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:07:05,438 [main] INFO BaseClass - Username entered successfully
+2022-07-28 14:07:05,602 [main] INFO BaseClass - Password entered successfully
+2022-07-28 14:07:08,501 [main] INFO BaseClass - Login Successfully
+2022-07-28 14:07:08,501 [main] INFO BaseClass - 1st test case passed
+2022-07-28 14:07:08,502 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:07:10,954 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:08:07,092 [main] INFO BaseClass - Login successfully
+2022-07-28 14:08:07,111 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:08:07,112 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 14:08:07,222 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 14:08:07,223 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 14:08:07,238 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 14:08:07,239 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 14:08:09,094 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:08:19,245 [main] INFO BaseClass - username is provided
+2022-07-28 14:08:19,446 [main] INFO BaseClass - password is provided
+2022-07-28 14:08:22,208 [main] INFO BaseClass - login successful
+2022-07-28 14:08:26,452 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 14:08:31,004 [main] INFO BaseClass - New Customer ID 47982
+2022-07-28 14:08:31,005 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 14:08:31,232 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 14:08:31,232 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 14:08:31,233 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 14:48:33,187 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:49:28,028 [main] INFO BaseClass - Username entered successfully
+2022-07-28 14:49:28,171 [main] INFO BaseClass - Password entered successfully
+2022-07-28 14:49:31,131 [main] INFO BaseClass - Login Successfully
+2022-07-28 14:49:31,132 [main] INFO BaseClass - 1st test case passed
+2022-07-28 14:49:31,132 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:49:33,539 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:49:48,236 [main] INFO BaseClass - Login successfully
+2022-07-28 14:49:48,246 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:49:48,246 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 14:49:48,367 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 14:49:48,370 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 14:49:48,380 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 14:49:48,381 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 14:49:50,380 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:50:42,811 [main] INFO BaseClass - username is provided
+2022-07-28 14:50:42,950 [main] INFO BaseClass - password is provided
+2022-07-28 14:50:46,239 [main] INFO BaseClass - login successful
+2022-07-28 14:50:51,514 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 14:50:55,713 [main] INFO BaseClass - New Customer ID 70826
+2022-07-28 14:50:55,714 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 14:50:56,013 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 14:50:56,014 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 14:50:56,014 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 14:51:24,430 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:52:16,125 [main] INFO BaseClass - Username entered successfully
+2022-07-28 14:52:16,422 [main] INFO BaseClass - Password entered successfully
+2022-07-28 14:52:19,654 [main] INFO BaseClass - Login Successfully
+2022-07-28 14:52:19,655 [main] INFO BaseClass - 1st test case passed
+2022-07-28 14:52:19,656 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:52:23,004 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:52:37,086 [main] INFO BaseClass - Login successfully
+2022-07-28 14:52:37,100 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 14:52:37,101 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 14:52:37,220 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 14:52:37,221 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 14:52:37,239 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 14:52:37,239 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 14:52:39,519 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 14:53:33,627 [main] INFO BaseClass - username is provided
+2022-07-28 14:53:33,768 [main] INFO BaseClass - password is provided
+2022-07-28 14:53:37,538 [main] INFO BaseClass - login successful
+2022-07-28 14:53:43,023 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 14:53:47,613 [main] INFO BaseClass - New Customer ID 44993
+2022-07-28 14:53:47,613 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 14:53:47,967 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 14:53:47,968 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 14:53:47,968 [main] INFO BaseClass - Test case is passed:addNewCustomer
+2022-07-28 15:46:02,908 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 15:46:17,554 [main] INFO BaseClass - Username entered successfully
+2022-07-28 15:46:17,997 [main] INFO BaseClass - Password entered successfully
+2022-07-28 15:46:21,841 [main] INFO BaseClass - Login Successfully
+2022-07-28 15:46:21,845 [main] INFO BaseClass - 1st test case passed
+2022-07-28 15:46:21,847 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 15:46:28,323 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 15:46:47,306 [main] INFO BaseClass - Login successfully
+2022-07-28 15:46:47,363 [main] INFO BaseClass - Homepage opened successfully
+2022-07-28 15:46:47,365 [main] INFO BaseClass - 2nd test case is passed
+2022-07-28 15:46:48,868 [main] INFO BaseClass - Logout button tested successfully
+2022-07-28 15:46:48,869 [main] INFO BaseClass - 4th test case is passed
+2022-07-28 15:46:48,946 [main] INFO BaseClass - Testing homepage elements
+2022-07-28 15:46:48,947 [main] INFO BaseClass - 3rd test case is passed
+2022-07-28 15:46:53,444 [main] INFO BaseClass - Chrome browser opened successfully
+2022-07-28 15:47:46,402 [main] INFO BaseClass - username is provided
+2022-07-28 15:47:46,989 [main] INFO BaseClass - password is provided
+2022-07-28 15:47:53,907 [main] INFO BaseClass - login successful
+2022-07-28 15:48:05,964 [main] INFO BaseClass - Adding new customer data!
+2022-07-28 15:48:18,209 [main] INFO BaseClass - New Customer ID 88898
+2022-07-28 15:48:18,213 [main] INFO BaseClass - Customer is added successfully
+2022-07-28 15:48:19,121 [main] INFO BaseClass - Screenshot is taken
+2022-07-28 15:48:19,123 [main] INFO BaseClass - Screenshot is captured
+2022-07-28 15:48:19,126 [main] INFO BaseClass - Test case is passed:addNewCustomer

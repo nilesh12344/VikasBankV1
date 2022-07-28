@@ -1,0 +1,9 @@
+com\vikasbank\testCases\TC_AddCustomerTest_003.class
+com\vikasbank\utilities\ReadConfig.class
+com\vikasbank\utilities\Reporting.class
+com\vikasbank\testCases\TC_LoginDDT_003.class
+com\vikasbank\testCases\DemoReadConfig.class
+com\vikasbank\testCases\BaseClass.class
+com\vikasbank\testCases\TC_HomePage_001.class
+com\vikasbank\utilities\XLUtils.class
+com\vikasbank\testCases\TC_LoginTest_001.class

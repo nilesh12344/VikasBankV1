@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Ebanking_Vikas_v1" >
+  
+<listeners>
+		<listener class-name="com.vikasbank.utilities.Reporting" />
+</listeners> 
+
+<test name="Test1">
+	<parameter name="browser" value="chrome"></parameter> 
+    <classes> 
+    <class name="com.vikasbank.testCases.TC_LoginTest_001"/> 
+      <class name="com.vikasbank.testCases.TC_HomePage_001"/>
+		 <!-- <class name="com.vikasbank.testCases.TC_LoginDDT_003"/> -->
+		<class name="com.vikasbank.testCases.TC_AddCustomerTest_003"/>  	
+	</classes>
+  </test> 
+</suite> 
